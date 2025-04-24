@@ -10,7 +10,7 @@ medical records, scheduling appointments, and communicating with healthcare prov
 
 
 
-# RozarPay API Integration:
+# RazarPay API Integration:
 To facilitate direct payment of hospital bills by insurance companies, the e-Health Management System
 integrates the RozarPay API. This integration allows insurance companies to make payments directly
 through the system, streamlining the billing and payment process. The API provides secure and reliable
