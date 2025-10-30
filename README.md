@@ -41,4 +41,4 @@ The e-Health Management System includes an online payment interface that allows 
 appointments directly through the system. Patients can select their preferred healthcare provider, choose
 an available time slot, and make the payment securely within the application. This feature eliminates the
 need for manual booking and payment processes, enhancing convenience for both patients and
-healthcare providers.
+doctors.
